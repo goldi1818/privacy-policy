@@ -58,7 +58,7 @@
   <section>
     <h2>7. Contact Us</h2>
     <p>If you have any questions or concerns about this Privacy Policy, feel free to contact us at:<br>
-    📧 <a href="mailto:your_email@example.com">your_email@example.com</a></p>
+    📧 <a href="mailto:rk7827842149@gmail.com">rk7827842149@gmail.com</a></p>
   </section>
 </body>
 </html>
